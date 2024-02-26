@@ -7,7 +7,7 @@ import org.openqa.selenium.WebElement;
 
 public class Connexion {
 
-	
+
 	 public static void main(String[] args) {
 	        // Spécifiez le chemin du pilote Chrome (téléchargez le pilote correspondant à votre version de Chrome)
 	        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Zrida Mohamed\\Desktop\\Jihene\\selenium\\chromedriver-win32\\chromedriver.exe");
@@ -37,7 +37,6 @@ public class Connexion {
 
             // Cliquez sur le bouton de connexion
             loginButton.click();
-            
             
 	    }
 	}

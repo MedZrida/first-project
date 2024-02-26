@@ -55,6 +55,11 @@
             <version>7.4.0</version> <!-- Or the latest version available -->
             <scope>test</scope>
         </dependency>
+        <dependency>
+        	<groupId>mavenproject</groupId>
+        	<artifactId>maven</artifactId>
+        	<version>0.0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 </project>
 
